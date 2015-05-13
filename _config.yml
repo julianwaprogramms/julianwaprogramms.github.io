@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Mein erster eigener Jeyklllll Block.
+tagline:             Häschtäg Puschydistrucktschn
+url:                 http://julianwaprogramms.github.io
 paginate:            1
 baseurl:             ""
 
@@ -20,11 +20,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
+  name:              Julian W.
+  url:               http://julianwaprogramms.github.io
   email:             markdotto@gmail.com
 
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/julianwaprogramms/julianwaprogramms.github.io
